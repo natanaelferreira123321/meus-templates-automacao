@@ -1,6 +1,6 @@
 # meus-templates-automacao
 
-![Status da Pipeline](https://github.com/natanaelferreira123321/meus-templates-automacao/actions/workflows/pipeline-base.yml/badge.svg)
+![Status da Pipeline](https://github.com/natanael-eng/meus-templates-automacao/actions/workflows/pipeline-base.yml/badge.svg)
 
 Este repositório contém a base padrão para as minhas pipelines de teste.
 
